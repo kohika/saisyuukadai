@@ -1,0 +1,89 @@
+@charset "UTF-8";
+
+ html{
+    background:url(M.jpg) ;
+ }
+ 
+ body{
+    width:900px;
+    margin:0 auto;
+ }
+
+ h1{
+    font-size:40px;
+    border:10px outset  yellow;
+    padding-left: 200px;
+ }
+
+ .PU{
+   width: 200px;
+   float:left;
+   padding: 50px;
+ }
+
+ .PMU{
+    font-size:35px;
+    padding: 20px 40px 70px 60px;
+ }
+
+ h2{
+    font-size:35px;
+    margin:0 auto;
+ }
+
+ .PN{
+   width: 700px;
+ }
+
+ .PNU {
+   font-size:25px;
+   padding-left:  170px;
+ }
+
+ .PI{
+    width:500px;
+ }
+ 
+ .PIU{
+     font-size:25px;
+     padding-left: 175px ;
+
+ }
+
+ .GU{
+    width:400px;
+    float:right;
+ }
+
+ .GUM{
+     font-size:20px;
+     padding-top: 40px;
+ }
+
+ .SB{
+    width:400px;
+    float:left;
+ }
+
+ .SBU{
+     font-size:20px;
+     padding-top:100px;
+ }
+
+ .TOU{
+    width:500px;
+    position:relative;
+    top:20px;
+    left:200px;
+ }
+
+ .TOUP{
+   font-size:20px;
+   padding-top: 40px;
+ }
+
+ address{
+   font-size: 30px;
+ }
+
+ 
